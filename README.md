@@ -1,5 +1,6 @@
-1
+3 (the correct thing to do)
 2
+1
 
 # learning-git
 
